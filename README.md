@@ -1,3 +1,3 @@
-## **Проектная работа по курсу Python QA Engineer**
+## **Project work on Python QA Engineer**
 
-Автоматизация тестирования приложения по подбору инвестиционного портфеля
+Automation of testing of an investment portfolio selection application
